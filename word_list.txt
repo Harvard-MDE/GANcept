@@ -1,0 +1,9 @@
+formal, welcoming, sterile, Melancholic, peaceful, hostile, Whimsical, mysterious, Timeless, playful, elegant, cheerful, gloomy, casual, simple, boring, friendly, romantic, Surreal, Inviting, Serene, Vibrant, Eclectic, Harmonious, Tranquil, Lively, Enchanting, Ethereal, Celestial, Mystical, Dreamlike, Nostalgic, Worn, secluded, haunted, ugly, cozy, luxurious,
+
+metallic, plastic, smooth, Velvety, Luminous, Porous, glass, hard, wooden, yellow, rough, textured, bright, dark, angular, shiny, curved, round, flat, matte, fuzzy, fluffy, Monochromatic, Muted, neutral, Dull, Rugged, Concrete, Transparent, Polished, Reflective, Opaque, Stony, Ceramic, Grassy, Patterned, Translucent, Inlaid, Ribbed, muted, Plush, floral,
+
+geometric, Jumbled, cluttered, organized, clean, dirty, chaotic,
+
+baroque, minimalist, organic, modern, rustic, Industrial, Synthetic,
+
+Cluttered, jumbled, secluded,

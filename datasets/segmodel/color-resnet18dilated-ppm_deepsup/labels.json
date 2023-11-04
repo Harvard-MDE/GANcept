@@ -1,0 +1,66 @@
+{
+    "imageformat": {
+        "byteorder": "BGR",
+        "mean": [
+            0.40384352941176466,
+            0.4546921568627451,
+            0.4814576470588235
+        ],
+        "stdev": [
+            0.00392156862745098,
+            0.00392156862745098,
+            0.00392156862745098
+        ]
+    },
+    "categories": [
+        {
+            "name": "color"
+        }
+    ],
+    "labels": [
+        {
+            "name": "black",
+            "category": "color"
+        },
+        {
+            "name": "blue",
+            "category": "color"
+        },
+        {
+            "name": "brown",
+            "category": "color"
+        },
+        {
+            "name": "grey",
+            "category": "color"
+        },
+        {
+            "name": "green",
+            "category": "color"
+        },
+        {
+            "name": "orange",
+            "category": "color"
+        },
+        {
+            "name": "pink",
+            "category": "color"
+        },
+        {
+            "name": "purple",
+            "category": "color"
+        },
+        {
+            "name": "red",
+            "category": "color"
+        },
+        {
+            "name": "white",
+            "category": "color"
+        },
+        {
+            "name": "yellow",
+            "category": "color"
+        }
+    ]
+}
